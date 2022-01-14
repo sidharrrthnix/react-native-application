@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "133613930864",
+    "firebase_url": "https://drivernotification-happyeater.firebaseio.com",
+    "project_id": "drivernotification-happyeater",
+    "storage_bucket": "drivernotification-happyeater.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133613930864:android:e6cd1669642794f496a7b5",
+        "android_client_info": {
+          "package_name": "com.happyeater.notify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133613930864-bkvjs1f215i0knnq2u9eavhe3rr2sruo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkDfC-ChW02evjrall9VLy0WwmbqyM7uM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133613930864-bkvjs1f215i0knnq2u9eavhe3rr2sruo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
